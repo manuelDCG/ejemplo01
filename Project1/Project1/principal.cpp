@@ -7,4 +7,5 @@ int main(int argc, char* argv[])
 	cout << "CU : 35-4879" << endl;
 	cout << "CI : 13188455" << endl;
 	cout << "edad : 20 años" << endl;
+	// probando un nuevo cambio S//
 }
